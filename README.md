@@ -1,2 +1,2 @@
 # terraform
-Repository for infrastructure defined through Terraform
+Repository to determine infrastructure through Terraform
